@@ -129,7 +129,7 @@ The dashboard expects data in the following JSON format:
 
 ## 🚀 Deployment
 
-By default, Replit runs the `dev` script for development. For production:
+By default,  runs the `dev` script for development. For production:
 
 1. Run `npm run build` to create optimized build
 2. Deploy the `dist` folder to your hosting platform
